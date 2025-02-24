@@ -20,3 +20,4 @@ To learn more about reddit's API, check out our [automated API documentation](ht
 ### Quickstart
 
 To set up your own instance of reddit see the [install guide](https://github.com/reddit/reddit/wiki/Install-guide).
+New changes
